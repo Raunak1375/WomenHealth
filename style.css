@@ -1,0 +1,84 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(aa817fc9-1307-4d36-8b47-4903bb7cf853.png);
+    background-size: cover;
+}
+
+header {
+    background-color: #f26c4f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.top{
+    background-color: antiquewhite;
+}
+.our-doctors{
+    padding: 2rem 10%;
+}
+.our-doctors h1{
+    text-align: center;
+    font-size: 40px;
+    color: var(--mainclr);
+    margin-bottom: 30px;
+}
+.main-doctor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 80px;
+}
+.inner-doctor{
+    flex: 1 1 300px;
+    position: relative;
+}
+.inner-doctor img{
+    width: 100%;
+
+}
+.doc-icons{
+    position: absolute;
+    bottom: 2%;
+}
+.doc-icons div{
+    font-size: 2rem;
+    color: var(--mainclr);
+    background: white;
+    border: 1px solid black;
+    margin-left: 2rem;
+    width: 4rem;
+    height: 4rem;
+    line-height: 4rem;
+    text-align: center;
+    display: flex;
+    align-items: flex-start;
+    cursor: pointer;
+}
+.doc-icons div:hover{
+    transform: scale(1.1);
+}
+.doc-icons{
+    display: flex;
+    align-items: center;
+    height: 3rem;
+}
+.fabfa-facebook{
+    <img src: 2021_f;
+
+}
